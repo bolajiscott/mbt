@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,gBACI,WAEJ,CACA,IACI,eACJ,CACA,KACI,SAAU,CACV,eACJ","file":"main.ebd3265e.chunk.css","sourcesContent":["\n#outlined-basic{\n    width: 300px;\n    \n}\n#rt{\n    margin-left: 30%;\n}\n#btn{\n    width: 30%;\n    color: '#0069d9'\n}"]}
